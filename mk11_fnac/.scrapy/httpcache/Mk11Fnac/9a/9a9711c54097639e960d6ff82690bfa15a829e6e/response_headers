@@ -1,0 +1,12 @@
+Cache-Control: max-age=0, private, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html;charset=utf-8
+Server: Microsoft-IIS/8.5
+X-Datadome: protected
+Charset: utf-8
+X-Datadome-Cid: AHrlqAAAAAMA6rdjhUHa29IAWlz5og==
+Set-Cookie: datadome=1LFVmkx4QITapuPKjk2KZMN7Kqbyt1QPIdIVVRGVvrX;Path=/;Domain=.fnac.com;Expires=Mon, 04-May-2020 12:31:46 GMT;Max-Age=31536000
+X-Ua-Compatible: IE=edge
+Link: <//static.fnac-static.com:443>;rel="dns-prefetch preconnect",<//www.fnac.com:443>;rel="dns-prefetch preconnect"
+Strict-Transport-Security: max-age=600
+Date: Sun, 05 May 2019 12:31:46 GMT

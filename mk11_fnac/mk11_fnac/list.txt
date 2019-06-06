@@ -1,0 +1,2 @@
+https://host1:8080
+http://anonymous:password@host2:port

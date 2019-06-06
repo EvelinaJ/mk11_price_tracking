@@ -1,0 +1,15 @@
+Content-Type: text/html
+Server: Server
+Date: Sat, 04 May 2019 12:31:13 GMT
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Sdch-Encode: 0
+Last-Modified: Wed, 10 Apr 2019 22:14:48 GMT
+Etag: "93a-5863465ce6600-gzip"
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment
+Content-Encoding: gzip
+X-Amz-Rid: 8H5APPKTJR2VDH4M15RW
+X-Frame-Options: SAMEORIGIN
+X-Cache: Error from cloudfront
+Via: 1.1 6236072462242bef634e5176c04905bd.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: OOV7gd7Pcub2XHj-hRoLLR95MuTTRqdQX3VsYeG5_eDK8gleFUQPog==
